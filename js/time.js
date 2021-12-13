@@ -1,7 +1,14 @@
+/*
+ * @Author: feihao
+ * @Date: 2021-12-13 20:05:38
+ * @LastEditors: feihao
+ * @LastEditTime: 2021-12-13 20:12:23
+ * @FilePath: /feihao777.github.io/js/time.js
+ */
 
 
  function GetRTime(){
-       var EndTime= new Date('2019/01/31 00:00:00');
+       var EndTime= new Date('2022/01/31 00:00:00');
        var NowTime = new Date();
        var t =EndTime.getTime() - NowTime.getTime();
        var d=Math.floor(t/1000/60/60/24);
@@ -9,7 +16,7 @@
        var m=Math.floor(t/1000/60%60);
        var s=Math.floor(t/1000%60);
 	   
-	          var EndTime1= new Date('2019/02/18 00:00:00');
+	          var EndTime1= new Date('2022/02/18 00:00:00');
        var NowTime1 = new Date();
        var t1 =EndTime1.getTime() - NowTime1.getTime();
        var d1=Math.floor(t1/1000/60/60/24);
@@ -17,7 +24,7 @@
        var m1=Math.floor(t1/1000/60%60);
        var s1=Math.floor(t1/1000%60);
 	   
-	          var EndTime2= new Date('2019/03/10 00:00:00');
+	          var EndTime2= new Date('2022/03/10 00:00:00');
        var NowTime2 = new Date();
        var t2 =EndTime2.getTime() - NowTime2.getTime();
        var d2=Math.floor(t2/1000/60/60/24);
