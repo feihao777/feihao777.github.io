@@ -528,7 +528,7 @@ mark,
 }
 
 .initialism {
-  font-size: 90%;
+  font-size: 80%;
   text-transform: uppercase;
 }
 
@@ -572,7 +572,7 @@ mark,
 }
 
 .figure-caption {
-  font-size: 90%;
+  font-size: 80%;
   color: #868e96;
 }
 
@@ -585,7 +585,7 @@ samp {
 
 code {
   padding: 0.2rem 0.4rem;
-  font-size: 90%;
+  font-size: 80%;
   color: #bd4147;
   background-color: #f8f9fa;
   border-radius: 0.25rem;
@@ -599,7 +599,7 @@ a > code {
 
 kbd {
   padding: 0.2rem 0.4rem;
-  font-size: 90%;
+  font-size: 80%;
   color: #fff;
   background-color: #212529;
   border-radius: 0.2rem;
@@ -615,7 +615,7 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 90%;
+  font-size: 80%;
   color: #212529;
 }
 

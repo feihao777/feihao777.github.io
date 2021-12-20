@@ -333,7 +333,7 @@
 							opt.thumbs = removeArray(opt.thumbs,sindex);	
 							if (_R.updateNavIndexes) _R.updateNavIndexes(opt); 
 							if (nextslideafter) container.revnext();
-							punchgs.TweenLite.set(opt.li,{minWidth:"99%"});														
+							punchgs.TweenLite.set(opt.li,{minWidth:"90%"});														
 							punchgs.TweenLite.set(opt.li,{minWidth:"100%"});
 						}
 					}

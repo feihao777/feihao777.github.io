@@ -552,7 +552,7 @@ a.pink-btn i{ font-size: 14px;}
 }
 .comparepop .comparepop-list li.li-add .choose_con .model-select span,
 .comparepop .comparepop-list li.li-add .choose_con .version-select span{ 
-	width: 95%; 
+	width: 85%; 
 	color: #999; 
 	overflow: hidden; 
 	white-space: nowrap; 
@@ -673,7 +673,7 @@ a.pink-btn i{ font-size: 14px;}
 }
 .left-comparepop .left-comparepop-list li.li-add .choose_con .model-select span,
 .left-comparepop .left-comparepop-list li.li-add .choose_con .version-select span{ 
-	width: 95%; 
+	width: 85%; 
 	color: #999; 
 	overflow: hidden; 
 	white-space: nowrap; 
@@ -816,7 +816,7 @@ a.pink-btn i{ font-size: 14px;}
 /*下拉框*/
 .form-control{display:inline-block;vertical-align: top; height:50px;text-align:left;width:210px;padding-left:10px;padding-right:10px;border:1px solid #a6a6a6;position:relative;cursor:pointer;background:#fff; }
 .form-control:after{position:absolute;content:"";width:0;height:0;border-width:6px 6px 0 6px;border-style:solid;border-color:#00b3e0 transparent;top:45%;right:15px}
-.form-control span{ width: 95%; display:inline-block; vertical-align: top; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;font-size:16px;color:#707070;line-height:36px}
+.form-control span{ width: 85%; display:inline-block; vertical-align: top; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;font-size:16px;color:#707070;line-height:36px}
 .pro-search-field{padding:30px 0}
 .dropdown{display: none;position:absolute;top:100%;left:0;width:100%;border:1px solid #ccc;border-radius:5px;overflow:hidden;transition:all .1s;background:#fff;z-index:999;}
 .select-wrapper.active .dropdown{max-height:300px;display:inline-block;overflow-y:auto}
